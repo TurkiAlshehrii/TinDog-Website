@@ -9,7 +9,7 @@ i use in this project :
 
 ● HTML
 ● CSS 
-● BOOTSTRAP
+● BOOTSTRAP  5
 
 --------- 
 

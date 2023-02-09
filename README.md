@@ -13,4 +13,4 @@ i use in this project :
 
 --------- 
 
-You can live preview the website by click to this link -> { https://turkialshehrii.github.io/TinDog-Website/ }
+You can live preview the website by click to this link -> { https://turkialshehrii.github.io/Tindog-website/ }
